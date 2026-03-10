@@ -22,15 +22,12 @@ Computer Science Engineer | AI/ML Enthusiast | Python Developer
 
 ---
 
-# 🧠 AI Developer Animation
+# 👨‍💻 About Me
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
 </p>>
 
----
-
-# 👨‍💻 About Me
 
 I am a **Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning**.
 
@@ -207,13 +204,16 @@ https://cineverse-nikhil.vercel.app/
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </p>
 
-
 <a href="mailto:suryax369@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/suryaaxc">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
