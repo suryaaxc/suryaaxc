@@ -26,7 +26,7 @@ Computer Science Engineer | AI/ML Enthusiast | Python Developer
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
-</p>>
+</p>
 
 
 I am a **Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning**.
