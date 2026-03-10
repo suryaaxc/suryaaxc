@@ -1,9 +1,11 @@
-<!-- AI CODING VIDEO BANNER -->
+
+# SURYAXC The AI - Developer
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
 </p>
 
+---
 <!-- TYPING INTRO -->
 
 <p align="center">
@@ -22,13 +24,6 @@ Computer Science student specialized in AI/ML | Python Developer | Learning Web 
 
 ---
 
-# 🧠 AI Developer Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
-</p>
-
----
 
 # 👨‍💻 About Me
 
@@ -72,24 +67,7 @@ Machine Learning • Pandas • NumPy • Scikit-learn • Matplotlib • Seabor
 
 ---
 
-## 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" height="50">
-<img src="https://skillicons.dev/icons?i=nodejs" height="50">
-<img src="https://skillicons.dev/icons?i=html" height="50">
-<img src="https://skillicons.dev/icons?i=css" height="50">
-<img src="https://skillicons.dev/icons?i=javascript" height="50">
-</p>
-
----
-
 # 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
 
 ### 🎬 Movie Matcher Flex
 
@@ -99,9 +77,7 @@ Tech: Python • ML • TF-IDF • Streamlit
 
 https://movie-matcher-flex.streamlit.app/
 
-</td>
-
-<td width="50%">
+---
 
 ### 🌐 Personal Portfolio
 
@@ -111,13 +87,7 @@ React • Vite • Tailwind
 
 https://suryaaxc-portfolio.vercel.app/
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+---
 
 ### 🎥 Cineverse
 
@@ -127,30 +97,15 @@ Open Source Contribution
 
 https://cineverse-nikhil.vercel.app/
 
-</td>
-
-<td width="50%">
-
-### 🤖 DeepFake Detector
-
-ML model detecting fake videos
-
-Python • ML
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suryaaxc&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suryaaxc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaaxc&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaaxc&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -172,14 +127,6 @@ Python • ML
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/suryaaxc/suryaaxc/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -196,31 +143,32 @@ Python • ML
 
 ---
 
-# 📊 Competitive Programming
+# 💻 Competitive Coding
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark">
+<a href="https://leetcode.com/u/24BAI70419/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=suryaaxc&show_icons=true&theme=tokyonight">
+<a href="https://www.hackerrank.com/profile/suryakant0611201">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank">
+</a>
 
 </p>
 
 ---
 
-# 🤖 AI Coding Section
+# 🧠 Engineer Quote
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+
+> "Great engineers don't just write code — they design solutions that make technology meaningful and impactful."
+
+**— Suryakant Kumar**
+
 </p>
 
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-</p>
 
 ---
 
@@ -234,6 +182,14 @@ Python • ML
 
 # 🌐 Connect With Me
 
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+</p>
+
+---
+
 <p align="center">
 
 <a href="mailto:suryax369@gmail.com">
@@ -241,7 +197,7 @@ Python • ML
 </a>
 
 <a href="https://github.com/suryaaxc">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://linkedin.com/in/suryaxc">
