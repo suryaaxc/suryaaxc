@@ -49,14 +49,6 @@ I enjoy building **AI powered systems, data-driven applications, and modern web 
 
 ---
 
-# 🧊 3D Tech Stack Cube
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mysql,git" />
-</p>
-
----
-
 # 🤖 AI / ML & Data
 
 <p align="center">
@@ -104,12 +96,13 @@ https://cineverse-nikhil.vercel.app/
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suryaaxc&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suryaaxc&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaaxc&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryaaxc&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryaaxc&theme=tokyonight"/>
 
 </p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -139,7 +132,9 @@ https://cineverse-nikhil.vercel.app/
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=suryaaxc&theme=tokyonight&column=7"/>
+
+<img src="https://github-trophies.vercel.app/?username=suryaaxc&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
 </p>
 
 ---
@@ -164,14 +159,6 @@ https://cineverse-nikhil.vercel.app/
 <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
 </a>
 
-</p>
-
----
-
-# 📊 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/24BAI70419?theme=dark&ext=heatmap"/>
 </p>
 
 ---
