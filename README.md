@@ -1,21 +1,19 @@
-
-# SURYAXC The AI - Developer
+<!-- 🌌 GALAXY BACKGROUND HEADER -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
+<img src="https://user-images.githubusercontent.com/74038190/212750309-3b9c8c52-bd62-4c52-b0d4-6b9b6c0f52c3.gif" width="100%">
 </p>
 
----
 <!-- TYPING INTRO -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Suryakant+Kumar;AI%2FML+Engineer+in+Progress;Python+Developer;Building+AI+Projects;Passionate+about+UI%2FUX+Design">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Suryakant+Kumar;AI%2FML+Engineer+in+Progress;Python+Developer;Machine+Learning+Explorer;Building+AI+Projects+%F0%9F%A7%A0">
 </p>
 
-<h1 align="center">👋 Hello World, I'm Suryakant Kumar</h1>
+<h1 align="center">👨‍🚀 Suryakant Kumar</h1>
 
 <h3 align="center">
-Computer Science student specialized in AI/ML | Python Developer | Learning Web Development | Passionate about UI/UX and Designs
+Computer Science Engineer | AI/ML Enthusiast | Python Developer
 </h3>
 
 <p align="center">
@@ -24,43 +22,54 @@ Computer Science student specialized in AI/ML | Python Developer | Learning Web 
 
 ---
 
+# 🧠 AI Developer Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
+</p>>
+
+---
 
 # 👨‍💻 About Me
 
-I am a **Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning** who enjoys building intelligent systems and modern applications.
+I am a **Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning**.
 
-I combine **AI, Data Science, and Web Development** to build real-world solutions.
+I enjoy building **AI powered systems, data-driven applications, and modern web platforms.**
 
-🚀 Building AI & ML Projects  
+🚀 Building AI Projects  
 📊 Exploring Data Science  
-🎨 Love UI/UX Design  
+🎨 Passionate about UI/UX  
 🌱 Learning Full Stack Development  
-🤝 Open to **Internships | Collaboration | Open Source**
+🤝 Open for **Internships • Collaboration • Open Source**
 
 ---
 
 # 💻 Tech Stack
 
-## 🧠 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="50">
-<img src="https://skillicons.dev/icons?i=cpp" height="50">
-<img src="https://skillicons.dev/icons?i=javascript" height="50">
-<img src="https://skillicons.dev/icons?i=html" height="50">
-<img src="https://skillicons.dev/icons?i=css" height="50">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,react,nodejs,mysql,git,vscode,gcp" />
 </p>
 
 ---
 
-## 🤖 AI / ML & Data
+# 🧊 3D Tech Stack Cube
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mysql,git" />
+</p>
+
+---
+
+# 🤖 AI / ML & Data
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
+
 </p>
 
 Machine Learning • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
@@ -70,10 +79,9 @@ Machine Learning • Pandas • NumPy • Scikit-learn • Matplotlib • Seabor
 # 🚀 Featured Projects
 
 ### 🎬 Movie Matcher Flex
+AI powered movie recommendation system
 
-AI Powered Movie Recommendation System
-
-Tech: Python • ML • TF-IDF • Streamlit
+Python • ML • Streamlit
 
 https://movie-matcher-flex.streamlit.app/
 
@@ -81,9 +89,7 @@ https://movie-matcher-flex.streamlit.app/
 
 ### 🌐 Personal Portfolio
 
-Modern Portfolio Website
-
-React • Vite • Tailwind
+Modern developer portfolio
 
 https://suryaaxc-portfolio.vercel.app/
 
@@ -91,9 +97,7 @@ https://suryaaxc-portfolio.vercel.app/
 
 ### 🎥 Cineverse
 
-Movie Discovery Platform
-
-Open Source Contribution
+Open source movie discovery platform
 
 https://cineverse-nikhil.vercel.app/
 
@@ -103,9 +107,9 @@ https://cineverse-nikhil.vercel.app/
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suryaaxc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suryaaxc&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaaxc&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaaxc&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -119,26 +123,34 @@ https://cineverse-nikhil.vercel.app/
 
 ---
 
-# 🌌 3D Contribution Sky
+# 📈 Real-Time Coding Activity
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryaaxc&theme=tokyonight">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryaaxc&theme=react-dark"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🌌 3D Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=suryaaxc&theme=tokyonight&no-frame=true&column=7">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryaaxc&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 Coding Activity Graph
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryaaxc&theme=tokyo-night">
+<img src="https://github-profile-trophy.vercel.app/?username=suryaaxc&theme=tokyonight&column=7"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
@@ -148,64 +160,60 @@ https://cineverse-nikhil.vercel.app/
 <p align="center">
 
 <a href="https://leetcode.com/u/24BAI70419/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/suryakant0611201">
-<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
 </a>
 
 </p>
 
 ---
 
-# 🧠 Engineer Quote
+# 📊 LeetCode Stats
 
 <p align="center">
-
-> "Great engineers don't just write code — they design solutions that make technology meaningful and impactful."
-
-**— Suryakant Kumar**
-
+<img src="https://leetcard.jacoblin.cool/24BAI70419?theme=dark&ext=heatmap"/>
 </p>
-
 
 ---
 
-# 👀 Visitor Counter
+# 💡 Engineer Quote
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=suryaaxc&style=for-the-badge&color=blue">
+
+> "Engineering is not about writing code. It is about creating intelligent solutions that push humanity forward."
+
+— **Suryakant Kumar**
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=suryaaxc&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-
+<p align="center">
 
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </p>
 
----
-
-<p align="center">
 
 <a href="mailto:suryax369@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/suryaaxc">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com/in/suryaxc">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://twitter.com/Xuryakant">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
