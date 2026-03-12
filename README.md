@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750309-3b9c8c52-bd62-4c52-b0d4-6b9b6c0f52c3.gif" width="100%">
 </p>
 
-<!-- TYPING INTRO --
+<!-- TYPING INTRO -->
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Suryakant+Kumar;AI%2FML+Engineer+in+Progress;Python+Developer;Machine+Learning+Explorer;Building+AI+Projects+%F0%9F%A7%A0">
