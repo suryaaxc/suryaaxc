@@ -13,7 +13,7 @@
 <h1 align="center">👨‍🚀 Suryakant Kumar</h1>
 
 <h3 align="center">
-Computer Science Engineer | AI/ML Enthusiast | Python Developer
+Computer Science Engineer | AI/ML Specialization | Python Developer
 </h3>
 
 <p align="center">
