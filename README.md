@@ -22,6 +22,14 @@ CS AI/ML Engineer | Learning Full Stack Development | Python Developer
 
 ---
 
+# 👀 Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=suryaaxc&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
 # 👨‍💻 About Me
 
 <p align="center">
@@ -41,13 +49,6 @@ I enjoy building **AI powered systems, data-driven applications, and modern web 
 
 ---
 
-# 👀 Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=suryaaxc&style=for-the-badge&color=blue"/>
-</p>
-
----
 
 # 💻 Tech Stack
 
@@ -183,13 +184,6 @@ https://cineverse-nikhil.vercel.app/
 
 ---
 
-# 👀 Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=suryaaxc&style=for-the-badge&color=blue"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
