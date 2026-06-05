@@ -41,6 +41,14 @@ I enjoy building **AI powered systems, data-driven applications, and modern web 
 
 ---
 
+# 👀 Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=suryaaxc&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
 # 💻 Tech Stack
 
 <p align="center">
