@@ -37,37 +37,83 @@ I am a **Computer Science Engineering student specializing in Artificial Intelli
 
 I enjoy building **AI powered systems, data-driven applications, and modern web platforms.**
 
-🚀 Building AI Projects  
-📊 Exploring Data Science  
-🎨 Passionate about UI/UX  
-🌱 Learning Full Stack Development  
+🚀 Building AI-Powered Full Stack Systems  
+📊 Exploring Data Science & Analytics  
+☁️ Cloud-Native Architecture Enthusiast  
+🧠 Passionate about AI, NLP & Intelligent Systems  
+🎨 Designing Modern UI/UX Experiences  
+🌱 Learning Enterprise Software Engineering  
 🤝 Open for **Internships • Collaboration • Open Source**
 
 ---
 
-
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,react,nodejs,mysql,git,vscode,gcp" />
+<img src="https://skillicons.dev/icons?i=python,java,spring,typescript,javascript,cpp,react,nodejs,express,html,css,tailwind,mysql,mongodb,docker,git,github,vercel,gcp,vscode&theme=dark" />
 </p>
 
 ---
 
-# 🤖 AI / ML & Data
+# 🤖 AI / ML & Data Science
 
 <p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50"/>
+
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
 
 </p>
 
-Machine Learning • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+**Machine Learning • NLP • Data Analytics • Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn**
 
+---
+
+# ⚡ Full Stack Engineering
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,java,spring,mongodb,mysql,html,css,tailwind&theme=dark" />
+</p>
+
+**React • TypeScript • JavaScript • Node.js • Express.js • Spring Boot • MongoDB • MySQL • REST APIs • Tailwind CSS**
+
+---
+
+# ☁️ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,vercel,gcp,git,github&theme=dark" />
+</p>
+
+**Cloud Deployment • Vercel • Render • Docker • Git • GitHub • CI/CD Fundamentals**
+
+---
+
+# 🧠 AI Systems & Specialized Domains
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NLP-Resume_Parsing-00E5FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Recommendation-Systems-00FF88?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Skill_Gap-Analytics-FF0055?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Telemetry-Dashboards-FFA500?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Serverless-Architecture-7A5CFF?style=for-the-badge"/>
+
+</p>
+
+**Resume Intelligence • NLP Pipelines • Recommendation Systems • Skill Gap Analysis • Telemetry Dashboards • Serverless Applications • Data Visualization**
+
+---
 ---
 
 # 🚀 Featured Projects
