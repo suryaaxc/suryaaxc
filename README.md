@@ -155,7 +155,12 @@ https://cineverse-nikhil.vercel.app/
 
 </p>
 ---
+# 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaaxc&theme=tokyonight" />
+</p>
+---
 
 
 # 📈 Real-Time Coding Activity
