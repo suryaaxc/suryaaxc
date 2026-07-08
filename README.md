@@ -159,7 +159,7 @@ https://cineverse-nikhil.vercel.app/
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suryaaxc&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaaxc&theme=tokyonight" />
 </p>
 ---
 
