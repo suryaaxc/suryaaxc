@@ -5,7 +5,7 @@
 </p>
    
 <!-- TYPING INTRO --> 
- 
+  
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Suryakant+Kumar;AI%2FML+Engineer+in+Progress;Python+Developer;Machine+Learning+Explorer;Building+AI+Projects+%F0%9F%A7%A0">
 </p> 
