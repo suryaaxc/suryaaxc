@@ -114,7 +114,6 @@ I enjoy building **AI powered systems, data-driven applications, and modern web 
 **Resume Intelligence • NLP Pipelines • Recommendation Systems • Skill Gap Analysis • Telemetry Dashboards • Serverless Applications • Data Visualization**
 
 ---
----
 
 # 🚀 Featured Projects
 
@@ -154,6 +153,7 @@ https://cineverse-nikhil.vercel.app/
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suryaaxc&theme=tokyonight"/>
 
 </p>
+
 ---
 
 # 🔥 GitHub Streak
@@ -161,6 +161,7 @@ https://cineverse-nikhil.vercel.app/
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaaxc&theme=tokyonight" />
 </p>
+
 ---
 
 
