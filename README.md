@@ -7,13 +7,13 @@
 <!-- TYPING INTRO --> 
                      
 <p align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Suryakant+Kumar;AI%2FML+Engineer+in+Progress;Python+Developer;Machine+Learning+Explorer;Building+AI+Projects+%F0%9F%A7%A0">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Suryakant+Kumar;AI%2FML+Engineer+in+Progress;Frontend+Developer;Machine+Learning+Explorer;Building+AI+Projects+%F0%9F%A7%A0">
 </p> 
     
 <h1 align="center">👨‍🚀 Suryakant Kumar</h1>
 
 <h3 align="center">
-CS AI/ML Engineer | Learning Full Stack Development | Python Developer
+CS AI/ML Engineer | Learning Full Stack Development | Frontend Developer
 </h3>
  
 <p align="center">
@@ -32,25 +32,26 @@ CS AI/ML Engineer | Learning Full Stack Development | Python Developer
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
 </p>
 
+I'm **Suryakant Kumar**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** at Chandigarh University.
 
-I am a **Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning**.
+I am passionate about building **AI-powered applications, Generative AI systems, NLP solutions, and scalable full-stack web platforms** that solve real-world problems. My interests span across **Machine Learning, Large Language Models (LLMs), Agentic AI, Data Analytics, Cloud Technologies, and Modern Web Development**.
 
-I enjoy building **AI powered systems, data-driven applications, and modern web platforms.**
-
-🚀 Building AI-Powered Full Stack Systems  
-📊 Exploring Data Science & Analytics  
-☁️ Cloud-Native Architecture Enthusiast  
-🧠 Passionate about AI, NLP & Intelligent Systems  
-🎨 Designing Modern UI/UX Experiences  
-🌱 Learning Enterprise Software Engineering  
-🤝 Open for **Internships • Collaboration • Open Source**
+🚀 Building Intelligent AI Products  
+🤖 Exploring Generative AI & Agentic Workflows  
+🌐 Developing Full Stack Web Applications  
+📊 Working with Machine Learning & Data Analytics  
+☁️ Learning Cloud-Native & Serverless Architectures  
+🧠 Interested in NLP, Recommendation Systems & AI Automation  
+🎨 Creating Modern UI/UX Experiences  
+📚 Continuous Learner & Problem Solver
 
 ---
+
 
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,spring,typescript,javascript,cpp,react,nodejs,express,html,css,tailwind,mysql,mongodb,docker,git,github,vercel,gcp,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,cpp,react,nodejs,express,html,css,tailwind,mysql,mongodb,docker,git,github,vercel,gcp,vscode&theme=dark" />
 </p>
 
 ---
@@ -78,10 +79,11 @@ I enjoy building **AI powered systems, data-driven applications, and modern web 
 # ⚡ Full Stack Engineering
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,java,spring,mongodb,mysql,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,mysql,html,css,tailwind&theme=dark" />
 </p>
 
-**React • TypeScript • JavaScript • Node.js • Express.js • Spring Boot • MongoDB • MySQL • REST APIs • Tailwind CSS**
+**React • TypeScript • JavaScript • Node.js • Express.js • MongoDB • MySQL • REST APIs • Tailwind CSS**
+
 
 ---
 
@@ -91,8 +93,7 @@ I enjoy building **AI powered systems, data-driven applications, and modern web 
 <img src="https://skillicons.dev/icons?i=docker,vercel,gcp,git,github&theme=dark" />
 </p>
 
-**Cloud Deployment • Vercel • Render • Docker • Git • GitHub • CI/CD Fundamentals**
-
+**AWS • Amazon Bedrock • Vercel • GCP • Docker • Git • GitHub • Cloud Deployment**
 ---
 
 # 🧠 AI Systems & Specialized Domains
@@ -109,6 +110,14 @@ I enjoy building **AI powered systems, data-driven applications, and modern web 
 
 <img src="https://img.shields.io/badge/Serverless-Architecture-7A5CFF?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Generative_AI-00E5FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-00FF88?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-7A5CFF?style=for-the-badge"/>
+
 </p>
 
 **Resume Intelligence • NLP Pipelines • Recommendation Systems • Skill Gap Analysis • Telemetry Dashboards • Serverless Applications • Data Visualization**
@@ -117,28 +126,52 @@ I enjoy building **AI powered systems, data-driven applications, and modern web 
 
 # 🚀 Featured Projects
 
-### 🎬 Movie Matcher Flex
-AI powered movie recommendation system
+### 📡 ChronoPulse Radar
+Real-Time Infrastructure Telemetry & Serverless Observability Engine
 
-Python • ML • Streamlit
+React • Node.js • MongoDB Atlas • Vercel Edge
+
+---
+
+### 🤖 Amazon Bedrock Agentic AI
+Generative AI Agent powered by AWS Bedrock
+
+AWS Bedrock • AI Agents • Prompt Engineering
+
+---
+
+### 🌍 POLYGLOT.AI
+Advanced Multi-Language Translation & NLP Communication Engine
+
+Python • NLP • Streamlit
+
+---
+
+### 🎯 JOB Skill Gap Analyzer
+AI-powered Resume & Skill Gap Intelligence Platform
+
+NLP • Recommendation Systems • Resume Analytics
+---
+
+### 🎬 Movie Matcher Flex
+AI-powered Movie Recommendation System
+
+Python • Machine Learning • Streamlit
 
 https://movie-matcher-flex.streamlit.app/
 
 ---
 
-### 🌐 Personal Portfolio
+### 🌌 NebulaX
+Modern Full Stack Web Platform
 
-Modern developer portfolio
-
-https://suryaaxc-portfolio.vercel.app/
+React • TypeScript • Node.js
 
 ---
 
-### 🎥 Cineverse
+### 🌐 Personal Portfolio
 
-Open source movie discovery platform
-
-https://cineverse-nikhil.vercel.app/
+https://suryaaxc-portfolio.vercel.app/
 
 ---
 
