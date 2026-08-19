@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750309-3b9c8c52-bd62-4c52-b0d4-6b9b6c0f52c3.gif" width="100%">
 </p>
-             
+              
 <!-- TYPING INTRO --> 
                      
 <p align="center"> 
